@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiteMapExample", "SiteMapExample\SiteMapExample.csproj", "{13B378B6-A93E-4C7D-8C79-59E76339345E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SiteMapExample", "SiteMapExample\SiteMapExample.csproj", "{13B378B6-A93E-4C7D-8C79-59E76339345E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorLibrary", "RazorLibrary\RazorLibrary.csproj", "{AC9BA46C-9EEE-477F-A6BB-590339981366}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{13B378B6-A93E-4C7D-8C79-59E76339345E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13B378B6-A93E-4C7D-8C79-59E76339345E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13B378B6-A93E-4C7D-8C79-59E76339345E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC9BA46C-9EEE-477F-A6BB-590339981366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9BA46C-9EEE-477F-A6BB-590339981366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9BA46C-9EEE-477F-A6BB-590339981366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9BA46C-9EEE-477F-A6BB-590339981366}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
