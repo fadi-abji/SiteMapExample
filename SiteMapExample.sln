@@ -5,7 +5,9 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SiteMapExample", "SiteMapExample\SiteMapExample.csproj", "{13B378B6-A93E-4C7D-8C79-59E76339345E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorLibrary", "RazorLibrary\RazorLibrary.csproj", "{AC9BA46C-9EEE-477F-A6BB-590339981366}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorLibrary", "RazorLibrary\RazorLibrary.csproj", "{AC9BA46C-9EEE-477F-A6BB-590339981366}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebApp", "BlazorWebApp\BlazorWebApp.csproj", "{19DB1E35-5375-4A18-B3C7-2140BA05B38A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{AC9BA46C-9EEE-477F-A6BB-590339981366}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC9BA46C-9EEE-477F-A6BB-590339981366}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC9BA46C-9EEE-477F-A6BB-590339981366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19DB1E35-5375-4A18-B3C7-2140BA05B38A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19DB1E35-5375-4A18-B3C7-2140BA05B38A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19DB1E35-5375-4A18-B3C7-2140BA05B38A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DB1E35-5375-4A18-B3C7-2140BA05B38A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
